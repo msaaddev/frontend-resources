@@ -4,6 +4,12 @@
 	<strong><i>A curated list of frontend resources from very basic to advance. Feel free to add new resources!</i></strong>
 </p>
 
+<div align="center">
+	<a href="https://stars.github.com/nominate/">
+		<img src="https://img.shields.io/badge/GitHub%20Star-Nominate%20%40msaaddev-%230F2345" alt="nominate @msaaddev for GitHub Star" />
+	</a>
+</div>
+
 ![separator](assets/separator.jpeg)
 
 - [Code Editor](#code-editor)
@@ -154,4 +160,4 @@ The following are some useful extensions for Visual Studio Code:
 ## License & Conduct
 
 - MIT © [Saad Irfan](https://github.com/msaaddev)
-- [Code of Conduct](https://github.com/msaaddev/frontend-resources/blob/master/code-of-conduct.md)
+- [Code of Conduct](https://github.com/msaaddev/frontend-resources/blob/main/code-of-conduct.md)
