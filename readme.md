@@ -7,25 +7,14 @@
 ![separator](assets/separator.jpeg)
 
 - [Code Editor](#code-editor)
-	- [Resources](#resources)
-	- [Extensions](#extensions)
 - [Code Hosting Platforms](#code-hosting-platforms)
-	- [Resources](#resources-1)
 - [Version Control Tool](#version-control-tool)
-	- [Resources](#resources-2)
 - [HTML](#html)
-	- [Resources](#resources-3)
 - [CSS](#css)
-	- [Resources](#resources-4)
 - [JavaScript](#javascript)
-	- [Resources](#resources-5)
 - [APIs](#apis)
-	- [Resources](#resources-6)
 - [React](#react)
-	- [Resources](#resources-7)
 - [Next](#next)
-	- [Resources](#resources-8)
-- [License & Conduct](#license--conduct)
 
 ## Code Editor
 
@@ -137,7 +126,6 @@ The following are some useful extensions for Visual Studio Code:
 | [Carefully curated guides around APIs](https://rapidapi.com/guides) | Guides by RapidAPI offer short and long form API Development content with interactive examples and visuals to help you become a pro API Developer. | `free` |
 | [Carefully curated interactive API learn labs](https://rapidapi.com/learn) | RapidAPI Learn: API Development using fun challenges (with solutions!) and interactive examples. Learn REST APIs · Learn GraphQL APIs · Learn AsyncAPI. | `free` |
 | [Learn APIs but with Comics](https://rapidapi.com/comics) | Comics By RapidAPI to teach different API concepts | `free` |
-| [How to build a REST API using Node.js and Express.js in 6 minutes?](https://rapidapi.com/guides/build-rest-api) | Let's go ahead and start building a REST API using Node.js and Express.js. We will do it in steps to make it easier to follow. | `free` |
 | [RapidAPI Hub](https://rapidapi.com/hub) | Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Hub - the world's largest API directory. Sign up today for Free! | `free/freemium/paid` |
 | [RapidAPI Studio](https://rapidapi.com/studio) | All in one API management platform. | `free/paid` |
 
