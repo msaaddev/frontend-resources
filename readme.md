@@ -18,10 +18,10 @@
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
-- [Firebase](#firebase)
 - [APIs](#apis)
 - [React](#react)
 - [Next](#next)
+- [Firebase](#firebase)
 
 ## Code Editor
 
@@ -106,7 +106,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn Flexbox in 15 Minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE) | In this video we will cover everything you need to know about CSS flexbox in only 15 minutes. We will cover what flexbox is, how flexbox works, and the different properties you can use to layout and style your flexbox containers. Flexbox is one of the most important and useful layout properties in all of CSS, and is luckily quite easy to understand once you wrap your head around the terminology. We will be covering all of the terminology, by going through live examples of all the different flexbox properties. | `free` |
 | [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w) | Complete crash course to learn HTML and CSS | `free` |
 | [Learn CSS](https://www.codecademy.com/learn/learn-css) | You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need! | `free` | 
-[Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) | Easiest and Best crash course to CSS Grid| `free` |
+[Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) | It can be easy to get bogged down in how grid works, with a lot of new properties, values, and even units! So let's try and simplify things as much as possible, because to get started, you don't need to know *everything* about how Grid works. | `free` |
 [Tailwind CSS](https://tailwindcss.com/docs/installation) | A utility-first CSS framework to Rapidly build modern websites without ever leaving your HTML.| `free` |
 
 ## JavaScript
@@ -127,19 +127,8 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) | You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment. | `free` |
 | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions. | `free` |
 | [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) | Learn the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects. | `free` |
-| [JavaScript Info](https://javascript.info/) | Learn modern javascript topics from basics to advance with simple and detailed explanations. | `free` |
+| [JavaScript Info](https://javascript.info/) | Learn modern JavaScript topics from basics to advance with simple and detailed explanations. | `free` |
 
-## Firebase
-
-| Name | Description | Status |
-|------|-------------|--------|
-| [Firebase CLI](https://firebase.google.com/docs/cli) | The Firebase CLI provides a variety of tools for managing, viewing, and deploying to Firebase projects. | `free` |
-
-### Resources
-
-| Name | Description | Status |
-|------|-------------|--------|
-| [Getting Started with Firebase v9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) | A comprehensive firebase tutorial series to get started with firebase v9. This series cover firebase auth and firestore database. | `free` |
 ## APIs
 
 ### Resources
@@ -163,7 +152,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Mastering React](https://codewithmosh.com/p/mastering-react) | Understand React inside out and boost your career prospects | `paid` |
 | [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) | We will build a small game during this tutorial. The techniques you’ll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React. | `free` |
 | [Learn React](https://www.codecademy.com/learn/react-101) | You’ll develop a strong understanding of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods, and hooks. You’ll be able to combine these ideas in React’s modular programming style. | `free` |
-| [Learn React Hooks](https://www.youtube.com/watch?v=LlvBzyy-558) | This course explains each react hook in detail. After this you'll developed a strong understanding of react hooks. | `free` |
+| [React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558) | This course explains each react hook in detail. After this you'll developed a strong understanding of react hooks. | `free` |
 
 ## Next
 
@@ -175,6 +164,18 @@ The following are some useful extensions for Visual Studio Code:
 | [Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=MFuwkrseXVE) | Learn all about Next.js, React's most popular Production Framework! Get Started with NextJS and make build amazing websites with ReactJS even more fun! Full Project included, 100% free 3 hours long course! | `free` |
 | [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) | Learn how to get started and get proficient with Next.js. | `free` |
 | [Static Blog With Next.js and Markdown](https://www.youtube.com/watch?v=MrjeefD8sac) | Create a basic blog using Next.js and Markdown. | `free` |
+
+## Firebase
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Firebase CLI](https://firebase.google.com/docs/cli) | The Firebase CLI provides a variety of tools for managing, viewing, and deploying to Firebase projects. | `free` |
+
+### Resources
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Getting Started with Firebase v9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) | A comprehensive firebase tutorial series to get started with firebase v9. This series cover firebase auth and firestore database. | `free` |
 
 ## License & Conduct
 
