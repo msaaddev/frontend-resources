@@ -22,6 +22,7 @@
 - [React](#react)
 - [Next](#next)
 - [Firebase](#firebase)
+- [Frontend Development (Complete)](#frontend-development-complete)
 
 ## Code Editor
 
@@ -131,14 +132,6 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) | Learn the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects. | `free` |
 | [JavaScript Info](https://javascript.info/) | Learn modern JavaScript topics from basics to advance with simple and detailed explanations. | `free` |
 
-## Web Development
-
-### Resources
-
-| Name | Description | Status |
-|------|-------------|--------|
-| [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
-
 ## APIs
 
 ### Resources
@@ -186,6 +179,15 @@ The following are some useful extensions for Visual Studio Code:
 | Name | Description | Status |
 |------|-------------|--------|
 | [Getting Started with Firebase v9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) | A comprehensive firebase tutorial series to get started with firebase v9. This series cover firebase auth and firestore database. | `free` |
+
+
+## Frontend Development (Complete)
+
+### Resources
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
 
 ## License & Conduct
 
