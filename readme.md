@@ -28,6 +28,7 @@
 | Name | Description | Status |
 |------|-------------|--------|
 | [Visual Studio Code](https://code.visualstudio.com/) | A free and open source code editor for the cloud. | `Free` |
+| [Sublime Text](https://www.sublimetext.com/) | A sophisticated, open source text editor for code, markup and prose. | `Free` |
 
 ### Resources
 
@@ -55,6 +56,7 @@ The following are some useful extensions for Visual Studio Code:
 |[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Improve your code commenting by annotating with alert, informational, TODOs, and more! | `free` |
 |[CSS Peek](https://marketplace.visualstudio.com/itemdetails?itemName=pranaygp.vscode-css-peek) | Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition. | `free` |
 |[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | `free` |
+|[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | An opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary. | `free` |
 
 ## Code Hosting Platforms
 
@@ -128,6 +130,14 @@ The following are some useful extensions for Visual Studio Code:
 | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions. | `free` |
 | [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) | Learn the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects. | `free` |
 | [JavaScript Info](https://javascript.info/) | Learn modern JavaScript topics from basics to advance with simple and detailed explanations. | `free` |
+
+## Web Development
+
+### Resources
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
 
 ## APIs
 
