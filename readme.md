@@ -20,7 +20,7 @@
 - [JavaScript](#javascript)
 - [APIs](#apis)
 - [React](#react)
-- [Next](#next)
+- [Next.js](#nextjs)
 - [Firebase](#firebase)
 - [Frontend Development (Complete)](#frontend-development-complete)
 - [Jobs](#jobs)
@@ -158,7 +158,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn React](https://www.codecademy.com/learn/react-101) | You’ll develop a strong understanding of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods, and hooks. You’ll be able to combine these ideas in React’s modular programming style. | `free` |
 | [React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558) | This course explains each react hook in detail. After this you'll developed a strong understanding of react hooks. | `free` |
 
-## Next
+## Next.js
 
 ### Resources
 
