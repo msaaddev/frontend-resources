@@ -19,8 +19,9 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [APIs](#apis)
-- [React](#react)
-- [Next](#next)
+- [ReactJS](#reactjs)
+- [NextJS](#nextjs)
+- [NodeJS](#nodejs)
 - [Firebase](#firebase)
 - [Frontend Development (Complete)](#frontend-development-complete)
 - [Jobs](#jobs)
@@ -146,7 +147,7 @@ The following are some useful extensions for Visual Studio Code:
 | [RapidAPI Hub](https://rapidapi.com/hub) | Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Hub - the world's largest API directory. Sign up today for Free! | `free/freemium/paid` |
 | [RapidAPI Studio](https://rapidapi.com/studio) | All in one API management platform. | `free/paid` |
 
-## React
+## ReactJS
 
 ### Resources
 
@@ -158,7 +159,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn React](https://www.codecademy.com/learn/react-101) | You’ll develop a strong understanding of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods, and hooks. You’ll be able to combine these ideas in React’s modular programming style. | `free` |
 | [React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558) | This course explains each react hook in detail. After this you'll developed a strong understanding of react hooks. | `free` |
 
-## Next
+## NextJS
 
 ### Resources
 
@@ -168,6 +169,14 @@ The following are some useful extensions for Visual Studio Code:
 | [Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=MFuwkrseXVE) | Learn all about Next.js, React's most popular Production Framework! Get Started with NextJS and make build amazing websites with ReactJS even more fun! Full Project included, 100% free 3 hours long course! | `free` |
 | [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) | Learn how to get started and get proficient with Next.js. | `free` |
 | [Static Blog With Next.js and Markdown](https://www.youtube.com/watch?v=MrjeefD8sac) | Create a basic blog using Next.js and Markdown. | `free` |
+
+## NodeJS
+
+### Resources
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) | This course is the perfect all-in-one package that will take you from a complete beginner to an advanced, highly-skilled Node.js developer. By building this huge project, you will learn all the skills that you need in order to plan, build, and deploy your own modern back-end applications with Node.js and related technologies. | `paid` |
 
 ## Firebase
 
