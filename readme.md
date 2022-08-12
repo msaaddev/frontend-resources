@@ -199,6 +199,8 @@ The following are some useful extensions for Visual Studio Code:
 |------|-------------|--------|
 | [Frontend Jobs](https://www.linkedin.com/jobs/search/?currentJobId=3160882862&distance=25&f_E=2&f_JT=F&f_WT=2&geoId=92000000&keywords=frontend) | Remote frontend engineer jobs on LinkedIn | `remote` |
 | [Frontend Jobs at RemoteOk](https://remoteok.com/remote-front-end-jobs) | remote 🎨 Frontend Jobs – work anywhere, live anywhere #OpenSalaries | `remote` |
+| [Frontend Jobs at flexjobs](https://www.flexjobs.com/search?search=frontend&location=) | Find Remote, Hybrid, & Flexible Frontend Jobs | `remote` |
+| [Frontend Jobs at We Work Remotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=frontend) | Find your next career at one of the best remote companies in the world 🌎 | `remote` |
 
 ## License & Conduct
 
