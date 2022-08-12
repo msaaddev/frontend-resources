@@ -23,6 +23,7 @@
 - [Next](#next)
 - [Firebase](#firebase)
 - [Frontend Development (Complete)](#frontend-development-complete)
+- [Jobs](#jobs)
 
 ## Code Editor
 
@@ -189,6 +190,15 @@ The following are some useful extensions for Visual Studio Code:
 |------|-------------|--------|
 | [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started. | `free` |
 | [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
+
+## Jobs
+
+### Resources 
+
+| Name | Description | Status |
+|------|-------------|--------|
+| [Frontend Jobs](https://www.linkedin.com/jobs/search/?currentJobId=3160882862&distance=25&f_E=2&f_JT=F&f_WT=2&geoId=92000000&keywords=frontend) | Remote frontend engineer jobs on LinkedIn | `remote` |
+| [Frontend Jobs at RemoteOk](https://remoteok.com/remote-front-end-jobs) | remote 🎨 Frontend Jobs – work anywhere, live anywhere #OpenSalaries | `remote` |
 
 ## License & Conduct
 
