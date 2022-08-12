@@ -187,6 +187,7 @@ The following are some useful extensions for Visual Studio Code:
 
 | Name | Description | Status |
 |------|-------------|--------|
+| [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started. | `free` |
 | [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
 
 ## License & Conduct
