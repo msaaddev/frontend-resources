@@ -68,6 +68,9 @@ assets/bower_components/*
 library/vendors/composer
 assets/img/.DS_Store
 
+# Visual Studio Code Workspace Files #
+.vscode
+
 # Visual Studio Project Files #
 .vs/
 
