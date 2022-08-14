@@ -98,6 +98,7 @@ The following are some useful extensions for Visual Studio Code:
 | [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) | In this crash course I will cram as much about HTML that I can. This is meant for absolute beginners. If you are interested in learning HTML but know nothing, then you are in the right place. We will be creating a cheat sheet with all of the common HTML5 tags, attributes, semantic markup, etc. | `free` |
 | [Legacy Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) | In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design. | `free` |
 | [Learn HTML](https://www.codecademy.com/learn/learn-html) | You will learn all the common HTML tags used to structure HTML pages, the skeleton of all websites. You will also be able to create HTML tables to present tabular data efficiently. | `free` |
+| [HTML 5 Tutorial For Beginners(With Notes)](https://youtu.be/BsDoLVMnmZs) | In this video, you'll learn how to create beautiful websites using Html. HTML is the language used for website design. This course on html will teach you everything you need to learn about html tags, lists, tables, seo etc. | `free` |
 | [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w) | Complete crash course to learn HTML and CSS | `free` |
 
 ## CSS
