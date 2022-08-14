@@ -203,6 +203,10 @@ The following are some useful extensions for Visual Studio Code:
 | [Frontend Jobs at flexjobs](https://www.flexjobs.com/search?search=frontend&location=) | Find Remote, Hybrid, & Flexible Frontend Jobs | `remote` |
 | [Frontend Jobs at We Work Remotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=frontend) | Find your next career at one of the best remote companies in the world 🌎 | `remote` |
 
+## Contributors
+
+[![contributors](https://contrib.rocks/image?repo=msaaddev/frontend-resources)](https://github.com/msaaddev/frontend-resources/graphs/contributors)
+
 ## License & Conduct
 
 - MIT © [Saad Irfan](https://github.com/msaaddev)
