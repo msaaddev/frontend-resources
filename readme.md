@@ -66,6 +66,7 @@ The following are some useful extensions for Visual Studio Code:
 |------|-------------|--------|
 | [GitHub](https://github.com/) | GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere | `free/paid` |
 | [GitLab](https://about.gitlab.com/) | GitLab is an open source code repository and collaborative software development platform for large DevOps and DevSecOps projects. | `free/paid` |
+| [BitBucket](https://bitbucket.org/) | BitBucket is a Git-based source code repository hosting service owned by Atlassian. It manages all your professional needs from code to deployment.| `free/paid` |
 
 ### Resources
 
