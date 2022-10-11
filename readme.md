@@ -34,6 +34,7 @@
 | [Atom](https://atom.io/) | A hackable text editor for the 21st Century | `free` |
 | [Vim](https://www.vim.org/) | Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. | `free` |
 | [Notepad++](https://notepad-plus-plus.org/downloads/) | Notepad++ is a text and source code editor for use with Microsoft Windows. | `free` |
+| [Brackets](https://brackets.io/) | With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. | `free` |
 
 ### Resources
 
