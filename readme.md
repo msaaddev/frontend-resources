@@ -149,6 +149,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Learn APIs but with Comics](https://rapidapi.com/comics) | Comics By RapidAPI to teach different API concepts | `free` |
 | [RapidAPI Hub](https://rapidapi.com/hub) | Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Hub - the world's largest API directory. Sign up today for Free! | `free/freemium/paid` |
 | [RapidAPI Studio](https://rapidapi.com/studio) | All in one API management platform. | `free/paid` |
+| [RapidAPI Learn](https://rapidapi.com/learn) | RapidAPI Learn: API Development using fun challenges (with solutions!) and interactive examples. | `free` |
 
 ## React
 
