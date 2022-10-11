@@ -89,6 +89,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) | In this Git tutorial we will talk about what exactly Git is and we will look at and work with all of the basic and most important commands such as add, commit, status, push and more. This tutorial is very beginner friendly. | `free` |
 | [Learn Git](https://gitimmersion.com/) | A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it. | `free` |
 | [Git Commands and Workflows](https://github.com/msaaddev/git-commands-workflows) | The git commands & workflows you need to know to work with git and automate your regular commands. | `free` |
+| [Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org) | Git has the power to make you a better software developer. But you'll have to go beyond the basic "commit, push, pull" to use it effectively! In this course, we'll look at some of the more advanced concepts and tools to make you more productive and confident with Git. | `free` |
 
 ## HTML
 
