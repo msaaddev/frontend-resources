@@ -123,6 +123,7 @@ The following are some useful extensions for Visual Studio Code:
 | Name | Description | Status |
 |------|-------------|--------|
 | [Node.js](https://nodejs.org/en/download/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. | `free` |
+| [Deno](https://deno.land/) | A modern runtime for JavaScript and TypeScript | `free` |
 
 ### Resources
 
