@@ -31,6 +31,7 @@
 |------|-------------|--------|
 | [Visual Studio Code](https://code.visualstudio.com/) | A free and open source code editor for the cloud. | `Free` |
 | [Sublime Text](https://www.sublimetext.com/) | A sophisticated, open source text editor for code, markup and prose. | `Free` |
+| [Atom](https://atom.io/) | A hackable text editor for the 21st Century | `free` |
 
 ### Resources
 
