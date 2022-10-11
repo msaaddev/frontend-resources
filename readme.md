@@ -59,6 +59,7 @@ The following are some useful extensions for Visual Studio Code:
 |[CSS Peek](https://marketplace.visualstudio.com/itemdetails?itemName=pranaygp.vscode-css-peek) | Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition. | `free` |
 |[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | `free` |
 |[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | An opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary. | `free` |
+| [Advanced New file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file) | Create files anywhere in your workspace from the keyboard | `free` |
 
 ## Code Hosting Platforms
 
