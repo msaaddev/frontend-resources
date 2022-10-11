@@ -29,9 +29,10 @@
 
 | Name | Description | Status |
 |------|-------------|--------|
-| [Visual Studio Code](https://code.visualstudio.com/) | A free and open source code editor for the cloud. | `Free` |
-| [Sublime Text](https://www.sublimetext.com/) | A sophisticated, open source text editor for code, markup and prose. | `Free` |
+| [Visual Studio Code](https://code.visualstudio.com/) | A free and open source code editor for the cloud. | `free` |
+| [Sublime Text](https://www.sublimetext.com/) | A sophisticated, open source text editor for code, markup and prose. | `free` |
 | [Atom](https://atom.io/) | A hackable text editor for the 21st Century | `free` |
+| [Vim](https://www.vim.org/) | Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. | `free` |
 
 ### Resources
 
