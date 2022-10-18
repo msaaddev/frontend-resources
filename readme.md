@@ -213,7 +213,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Frontend Jobs at RemoteOk](https://remoteok.com/remote-front-end-jobs) | remote 🎨 Frontend Jobs – work anywhere, live anywhere #OpenSalaries | `remote` |
 | [Frontend Jobs at flexjobs](https://www.flexjobs.com/search?search=frontend&location=) | Find Remote, Hybrid, & Flexible Frontend Jobs | `remote` |
 | [Frontend Jobs at We Work Remotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=frontend) | Find your next career at one of the best remote companies in the world 🌎 | `remote` |
-
+| [Frontend Jobs at Turing.com](https://www.turing.com/?s=na_organic_linkedin-profile_customer&n=organic&utm_source=na_organic_linkedin-profile_customer&utm_medium=organic) | Remote frontend engineer jobs on Turing.com | `remote` |
 ## Contributors
 
 [![contributors](https://contrib.rocks/image?repo=msaaddev/frontend-resources)](https://github.com/msaaddev/frontend-resources/graphs/contributors)
