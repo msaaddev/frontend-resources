@@ -108,6 +108,7 @@ The following are some useful extensions for Visual Studio Code:
 | [HTML 5 Tutorial For Beginners(With Notes)](https://youtu.be/BsDoLVMnmZs) | In this video, you'll learn how to create beautiful websites using Html. HTML is the language used for website design. This course on html will teach you everything you need to learn about html tags, lists, tables, seo etc. | `free` |
 | [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w) | Complete crash course to learn HTML and CSS | `free` |
 | [HTML Crash Course](https://www.algoexpert.io/frontend/html-crash-course) | The foundational HTML knowledge you need to ace frontend interviews. | `paid` |
+| [HTML Elements Index](https://meiert.com/en/indices/html-elements/) | A continuously updated list of all HTML (and XHTML) elements. | `free` |
 
 ## CSS
 
@@ -118,9 +119,9 @@ The following are some useful extensions for Visual Studio Code:
 | [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) | In this video I will cram as much as possible about CSS. We will be looking at styles, selectors, declarations, etc. We will build a CSS cheat sheet that you can keep as a resource and we will also create a basic website layout. We are using CSS3 but mostly the basics. | `free` |
 | [Learn Flexbox in 15 Minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE) | In this video we will cover everything you need to know about CSS flexbox in only 15 minutes. We will cover what flexbox is, how flexbox works, and the different properties you can use to layout and style your flexbox containers. Flexbox is one of the most important and useful layout properties in all of CSS, and is luckily quite easy to understand once you wrap your head around the terminology. We will be covering all of the terminology, by going through live examples of all the different flexbox properties. | `free` |
 | [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w) | Complete crash course to learn HTML and CSS | `free` |
-| [Learn CSS](https://www.codecademy.com/learn/learn-css) | You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need! | `free` | 
-[Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) | It can be easy to get bogged down in how grid works, with a lot of new properties, values, and even units! So let's try and simplify things as much as possible, because to get started, you don't need to know *everything* about how Grid works. | `free` |
-[Tailwind CSS](https://tailwindcss.com/docs/installation) | A utility-first CSS framework to Rapidly build modern websites without ever leaving your HTML.| `free` |
+| [Learn CSS](https://www.codecademy.com/learn/learn-css) | You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need! | `free` |
+| [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) | It can be easy to get bogged down in how grid works, with a lot of new properties, values, and even units! So let's try and simplify things as much as possible, because to get started, you don't need to know *everything* about how Grid works. | `free` |
+| [Tailwind CSS](https://tailwindcss.com/docs/installation) | A utility-first CSS framework to Rapidly build modern websites without ever leaving your HTML.| `free` |
 
 ## JavaScript
 
@@ -193,7 +194,6 @@ The following are some useful extensions for Visual Studio Code:
 |------|-------------|--------|
 | [Getting Started with Firebase v9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) | A comprehensive firebase tutorial series to get started with firebase v9. This series cover firebase auth and firestore database. | `free` |
 
-
 ## Frontend Development (Complete)
 
 ### Resources
@@ -202,10 +202,12 @@ The following are some useful extensions for Visual Studio Code:
 |------|-------------|--------|
 | [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started. | `free` |
 | [Frontend Masters Learning Paths](https://frontendmasters.com/learn/) | Guided paths to expand your abilities as a well-rounded web developer from beginner to expert levels! You can claim free 6-months access to all courses and workshops from GitHub Student Developer Pack. | `paid` |
+| [Frontend Dogma](https://frontenddogma.com/) | Daily news (and weekly tools) for frontend development. | `free` |
+| [WebGlossary.info](https://webglossary.info/) | Thousands of terms relevant for web development and design. | `free` |
 
 ## Jobs
 
-### Resources 
+### Resources
 
 | Name | Description | Status |
 |------|-------------|--------|
