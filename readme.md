@@ -154,6 +154,7 @@ The following are some useful extensions for Visual Studio Code:
 | [Carefully curated guides around APIs](https://rapidapi.com/guides) | Guides by RapidAPI offer short and long form API Development content with interactive examples and visuals to help you become a pro API Developer. | `free` |
 | [Carefully curated interactive API learn labs](https://rapidapi.com/learn) | RapidAPI Learn: API Development using fun challenges (with solutions!) and interactive examples. Learn REST APIs · Learn GraphQL APIs · Learn AsyncAPI. | `free` |
 | [Learn APIs but with Comics](https://rapidapi.com/comics) | Comics By RapidAPI to teach different API concepts | `free` |
+| [Compare JSON — BestJSON](https://bestjson.com/learn/compare-json-ignore-order) | Guide to comparing JSON responses: object-key order, array order, duplicate counts and matching records by ID. | `free` |
 | [RapidAPI Hub](https://rapidapi.com/hub) | Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Hub - the world's largest API directory. Sign up today for Free! | `free/freemium/paid` |
 | [RapidAPI Studio](https://rapidapi.com/studio) | All in one API management platform. | `free/paid` |
 | [RapidAPI Learn](https://rapidapi.com/learn) | RapidAPI Learn: API Development using fun challenges (with solutions!) and interactive examples. | `free` |
